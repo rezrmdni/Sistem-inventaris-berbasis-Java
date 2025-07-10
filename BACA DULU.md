@@ -1,10 +1,11 @@
+# **=======================================**
+# **SISTEM INVENTARIS SEMBAKO BERBASIS JAVA**
+# **=======================================**
 
-=======================================
-SISTEM INVENTARIS SEMBAKO BERBASIS JAVA
-=======================================
+CLONE PROJECT MENGGUNAKAN GIT
+[Project Inventaris](https://github.com/rezrmdni/Sistem-inventaris-berbasis-Java.git)
 
 ## 🚀 Fitur Aplikasi
-
 - Login admin
 - Manajemen data:
   - Pengguna
@@ -21,9 +22,9 @@ SISTEM INVENTARIS SEMBAKO BERBASIS JAVA
 
 ## 👨‍💻 Teknologi yang Digunakan
 
-- Java SE (NetBeans)
-- MySQL (via XAMPP)
-- JasperReports
+- Java SE (NetBeans) [Download Here](https://netbeans.apache.org/front/main/download/)
+- MySQL (via XAMPP) [Download Here](https://www.apachefriends.org/download.html)
+- JasperReports [Download Here](https://community.jaspersoft.com/download-jaspersoft/download-jaspersoft/)
 
 ---
 
