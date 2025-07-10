@@ -1,6 +1,9 @@
-# **===============================**
+
+<img src="Tampilan-menu.jpeg" width="700" alt="Preview Tampilan">
+
+# **================================**
 # **SISTEM INVENTARIS SEMBAKO BERBASIS JAVA**
-# **===============================**
+# **================================**
 
 CLONE PROJECT MENGGUNAKAN GIT
 [Project Inventaris](https://github.com/rezrmdni/Sistem-inventaris-berbasis-Java.git)
@@ -53,7 +56,3 @@ Tim Pengembang :
   - Kevin Ramadhani P 202243501827
 
 ---
-
-# **==========**
-# **TERIMA KASIH**
-# **==========**
