@@ -1,6 +1,6 @@
-# **=======================================**
+# **===============================**
 # **SISTEM INVENTARIS SEMBAKO BERBASIS JAVA**
-# **=======================================**
+# **===============================**
 
 CLONE PROJECT MENGGUNAKAN GIT
 [Project Inventaris](https://github.com/rezrmdni/Sistem-inventaris-berbasis-Java.git)
