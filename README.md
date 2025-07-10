@@ -52,6 +52,8 @@ Tim Pengembang :
   - Iqbal Pradhiska W 202243501837
   - Kevin Ramadhani P 202243501827
 
+---
+
 # **==========**
 # **TERIMA KASIH**
 # **==========**
